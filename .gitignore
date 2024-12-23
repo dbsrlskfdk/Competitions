@@ -1,3 +1,6 @@
+# Competition Dataset File Dir
+**/data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
