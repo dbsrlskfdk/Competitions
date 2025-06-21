@@ -1,6 +1,8 @@
 # Competition Dataset File Dir
 **/data/*
 !**/data/.gitkeep
+**/resource/*
+!**/resource/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
